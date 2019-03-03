@@ -1,0 +1,17 @@
+{
+  "name": "khanghehe",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Khang"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/duykhangk4/start",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
